@@ -12,7 +12,7 @@ on representatives in Parliament).
 
 == Dependencies
 
-  $ sudo gem install sinatra
+  $ sudo gem install sinatra hpricot
 
 == Setup
 
